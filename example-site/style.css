@@ -1,4 +1,4 @@
-body{
+body {
     font-family: roboto, sans-sariff;
     display: flex;
     flex-direction: column;
@@ -24,6 +24,7 @@ body{
     .section-2 {
         background-color: #1F2937;
         color: white;
+        justify-content: space-between;
     }
     
     ul-1 {
