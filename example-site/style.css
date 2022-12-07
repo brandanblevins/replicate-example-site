@@ -1,9 +1,39 @@
 body{
-    font-family: sans-serif;
+    font-family: roboto, sans-sariff;
     display: flex;
     flex-direction: column;
+    flex: 1;
+}
 
     .header {
         background-color: #1F2937;
+        height: 72px;
+        color: white;
+        display: flex;
+        align-items: center;
+        padding: 0 16px;
+        font-size: 32px;
+        font-weight: 900;
+    }
+
+    .top-nav {
+        align-items: flex-start;
+    }
+    
+    .card {
+        justify-self: right;
+    }
+
+    .random {
+        justify-content: center;
+        align-self: center;
+        padding-block: 60px;
+    }
+
+    .card-1 {
+        display: flex;
+        flex: 1;
+        flex-direction: row;
+        justify-content: center;
     }
 }
