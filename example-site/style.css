@@ -11,7 +11,7 @@ body {
     height: 52px;
     color: white;
     display: flex;
-    padding: 0 36px;
+    padding: 0 76px;
     font-weight: 900;
     justify-content: space-between;
     padding-top: 10px;
@@ -27,6 +27,10 @@ body {
     background-color: #1F2937;
     color: white;
     justify-content: space-between;
+    align-items: baseline;
+    padding: 0 76px;
+    padding-bottom: 20px;
+    gap: 300px;
 }
 
 .website-awesome {
