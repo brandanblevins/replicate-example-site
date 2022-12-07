@@ -28,6 +28,17 @@ body {
     justify-content: space-between;
 }
 
+.website-awesome {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+.awesome-sub {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
 .button1 {
     background-color: chocolate;
     text-decoration-color: chartreuse;
@@ -57,7 +68,7 @@ ul-1 {
     display: flex;
     flex-direction: row;
     font-size: 18px;
-    color: #EBE7EB;
+    color: #E5E7EB;
     list-style-type: none;
     gap: 10px;
 }
