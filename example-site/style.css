@@ -23,6 +23,7 @@ body {
 }
 
 .section-2 {
+    display: flex;
     background-color: #1F2937;
     color: white;
     justify-content: space-between;
@@ -37,6 +38,10 @@ body {
 .awesome-sub {
     font-size: 18px;
     color: #E5E7EB;
+}
+
+.image {
+    align-self: flex-end;
 }
 
 .button1 {
