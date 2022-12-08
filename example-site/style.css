@@ -46,9 +46,13 @@ body {
     justify-content: baseline;
 }
 
-.button1 {
-    background-color: chocolate;
-    text-decoration-color: chartreuse;
+button {
+    font-family: Roboto, sans-serif;
+    border: none;
+    border-radius: 4px;
+    background: #3882F6;
+    padding: 2px 20px;
+    color: white;
 }
 
 .random {
