@@ -46,7 +46,7 @@ body {
     justify-content: baseline;
 }
 
-button {
+.topButton {
     font-family: Roboto, sans-serif;
     border: none;
     border-radius: 4px;
