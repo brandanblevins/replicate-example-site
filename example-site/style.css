@@ -51,6 +51,14 @@ body {
     text-decoration-color: chartreuse;
 }
 
+.random {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    display: flex;
+    justify-content: center;
+}
+
 .section-4 {
     display: flex;
     background-color: #EBE7EB;
