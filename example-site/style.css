@@ -70,6 +70,33 @@ body {
     flex-direction: column;
 }
 
+.container-1 {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    padding-top: 10px;
+}
+
+.container-2 {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    padding-top: 10px;
+}
+
+.card-2 {
+    border: 1px solid #3882F6;
+    box-shadow: 2px 4px 16px rgba(0, 0, 0, .06);
+    border-radius: 4px;
+    text-align: center;
+    padding-top: 25px;
+}
+
+.card-1 {
+    display: flex;
+    text-align: center;
+}
+
 .quote-text {
     font-style: italic;
     font-weight: lighter;
@@ -90,7 +117,7 @@ body {
     justify-content: center;
     color: #F9FAF8;
     font-weight: lighter;
-    padding: 40px
+    padding: 40px;
 }
 
 ul-1 {
